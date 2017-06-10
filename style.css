@@ -1,3 +1,4 @@
-.jumbotron text-center {
-  background-color: lightblue;
-}
+.jumbotron {background-color: lightsalmon;}
+.container {background-color: lightgrey;rotateX(45deg);}
+body {background-color: lavender;}
+#logo {padding-bottom: 30px;}
